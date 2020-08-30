@@ -15,5 +15,3 @@ Site developer: www.kubor.art
 
 ![Preview](https://github.com/shvetsov-art/nature_tools/blob/master/Preview.jpg)
 ![Example](https://github.com/shvetsov-art/nature_tools/blob/master/examles/Nature%20tools%20customize%20preview.gif)
-![Example Nature creator](https://github.com/shvetsov-art/nature_tools/blob/master/examles/Nature%20Creator%20(object%20level)%20preview.png]
-![Demo](https://github.com/shvetsov-art/nature_tools/blob/master/Demo.mp4)
