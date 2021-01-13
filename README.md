@@ -12,6 +12,7 @@
 8. Nature Deform
 
 Site developer: www.kubor.art
+Donate: https://gumroad.com/l/nature_tools
 
 ![Preview](https://github.com/shvetsov-art/nature_tools/blob/master/Preview.jpg)
 ![Example](https://github.com/shvetsov-art/nature_tools/blob/master/examles/Nature%20tools%20customize%20preview.gif)
