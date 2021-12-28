@@ -4,8 +4,8 @@
 ### Compound assets Nature tools:
 
 1. Nature Creator (Object)
- ↳ One node include scatter, rotate, scale, displacement and instancer
- ↳ System layers like Photoshop
+- One node include scatter, rotate, scale, displacement and instancer
+- System layers like Photoshop
 
 2. Nature Creator (Sop)
  ↳ One node include scatter, rotate, scale, displacement and instancer
