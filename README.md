@@ -4,7 +4,7 @@
 ### Compound assets Nature tools:
 1. Nature Creator (Object)
 2. Nature Creator (Sop)
-3. Nature Scatter
+3. Nature Scatter (support UDIM textures)
 4. Nature Rotate
 5. Nature Scale
 6. Nature Displacement
