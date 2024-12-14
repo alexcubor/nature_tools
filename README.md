@@ -25,7 +25,7 @@
 8. Nature Deform
 - Seating of instances by deformed geometry with animation
 
-Site developer: www.kubor.art
+Site developer: www.alexcubor.art
 Donate: https://gumroad.com/l/nature_tools
 
 ![Preview](https://github.com/shvetsov-art/nature_tools/blob/master/Preview.jpg)
